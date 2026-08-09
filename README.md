@@ -47,6 +47,10 @@ Add a new rubric only if it is:
 
 See [CONTRIBUTING.md](CONTRIBUTING.md).
 
+## More
+
+Part of a catalog of single-file browser tools and plain-language references, all MIT licensed and dependency-free: [0xelitesystem.github.io](https://0xelitesystem.github.io/). Built by [elitesystem.ai](https://elitesystem.ai).
+
 ## License
 
 MIT.
