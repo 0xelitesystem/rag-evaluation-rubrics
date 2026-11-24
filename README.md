@@ -60,6 +60,6 @@ MIT.
 - [rag-chunk-visualizer](https://github.com/0xelitesystem/rag-chunk-visualizer) - visualize how chunking strategies affect retrieval inputs
 - [embedding-cost-estimator](https://github.com/0xelitesystem/embedding-cost-estimator) - cost side of the retrieval pipeline
 - [llm-eval-datasets-starter](https://github.com/0xelitesystem/llm-eval-datasets-starter) - public eval datasets to seed your own
-- [agent-failure-modes](https://github.com/0xelitesystem/agent-failure-modes) - failure modes specific to agentic loops on top of RAG
-- [prompt-cost-calculator](https://github.com/0xelitesystem/prompt-cost-calculator) - cost side of the generation stage
-- [agentic-workflow-patterns](https://github.com/0xelitesystem/agentic-workflow-patterns) - for RAG agents specifically
+- [agent-failure-signals](https://github.com/0xelitesystem/agent-failure-signals) - failure modes specific to agentic loops on top of RAG
+- [prompt-cost-across-models](https://github.com/0xelitesystem/prompt-cost-across-models) - cost side of the generation stage
+- [coding-agent-work-patterns](https://github.com/0xelitesystem/coding-agent-work-patterns) - for RAG agents specifically
