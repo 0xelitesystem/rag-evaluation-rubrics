@@ -57,7 +57,7 @@ MIT.
 
 ## Related
 
-- [rag-chunk-visualizer](https://github.com/0xelitesystem/rag-chunk-visualizer) - visualize how chunking strategies affect retrieval inputs
+- [chunking-strategy-compare](https://github.com/0xelitesystem/chunking-strategy-compare) - visualize how chunking strategies affect retrieval inputs
 - [embedding-cost-compare](https://github.com/0xelitesystem/embedding-cost-compare) - cost side of the retrieval pipeline
 - [llm-eval-datasets-starter](https://github.com/0xelitesystem/llm-eval-datasets-starter) - public eval datasets to seed your own
 - [agent-failure-signals](https://github.com/0xelitesystem/agent-failure-signals) - failure modes specific to agentic loops on top of RAG
